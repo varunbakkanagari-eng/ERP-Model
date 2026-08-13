@@ -96,4 +96,4 @@ A modern, full-stack Enterprise Resource Planning (ERP) application tailored for
 
 ---
 
-*Designed and Developed by [Varun Bakkanagari](https://github.com/varunbakkanagari-eng)*
+*Designed and Developed by [Varun Bakkannagari](https://github.com/varunbakkanagari-eng)*
