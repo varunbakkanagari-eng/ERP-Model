@@ -6,16 +6,16 @@ import Modal from '../components/Modal';
 
 /* ─── Constants ──────────────────────────────────────────────── */
 const BUSINESS = {
-  name:        'SAI VARUN ENTERPRISES',
-  gstin:       '36AEDFS1935H1Z0',
-  phone:       'Cell : 9989888226',
-  email:       'srilaxmibrickindustry@gmail.com',
-  address:     'Sy. No.19/A/17/A, Raviryala, Maheshwaram Mdl., R.R. Dist.',
-  bank:        'KARUR VYSYA BANK',
-  branch:      'Meerpet.',
-  accountNo:   '1481135000006632',
-  ifsc:        'KVBL0001481',
-  signatory:   'Sai Varun Enterprises',   // kept as per spec
+  name:        'DUMMY ENTERPRISES',
+  gstin:       '22AAAAA0000A1Z5',
+  phone:       'Cell : 9876543210',
+  email:       'dummy@example.com',
+  address:     '123 Dummy Street, Dummy City, Dummy State, 123456',
+  bank:        'DUMMY BANK',
+  branch:      'Dummy Branch',
+  accountNo:   '0000000000000000',
+  ifsc:        'DUMM0000123',
+  signatory:   'Dummy Signatory',
 };
 
 /* ─── Helpers ─────────────────────────────────────────────────── */
