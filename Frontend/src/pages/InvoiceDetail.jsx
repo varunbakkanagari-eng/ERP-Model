@@ -6,17 +6,17 @@ import Modal from '../components/Modal';
 
 const fmt = (n) => '₹' + Number(n || 0).toLocaleString('en-IN', { minimumFractionDigits: 2 });
 
-const BUSINESS = {
-  name: 'SAI VARUN ENTERPRISES',
-  gstin: '36AEDFS1935H1Z0',
-  phone: 'Cell : 9989888226',
-  address: 'Sy. No.19/A/17/A, Raviryala, Maheshwaram Mdl., R.R. Dist.',
-  email: 'srilaxmibrickindustry@gmail.com',
-  bank: 'KARUR VYSYA BANK',
-  branch: 'Meerpet.',
-  accountNo: '1481135000006632',
-  ifsc: 'KVBL0001481',
-  signatory: 'Sai Varun Enterprises',
+ const BUSINESS = {
+  name: 'DUMMY ENTERPRISES',
+  gstin: '22AAAAA0000A1Z5',
+  phone: 'Cell : 9876543210',
+  address: '123 Dummy Street, Dummy City, Dummy State, 123456',
+  email: 'dummy@example.com',
+  bank: 'DUMMY BANK',
+  branch: 'Dummy Branch',
+  accountNo: '0000000000000000',
+  ifsc: 'DUMM0000123',
+  signatory: 'Dummy Signatory',
 };
 
 function convertNumberToWords(amount) {
